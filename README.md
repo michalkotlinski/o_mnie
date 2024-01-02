@@ -1,3 +1,3 @@
 # o_mnie
 
-To jest strona ćwiczebna na zajęcia **informatyki.
+To jest strona ćwiczebna na zajęcia **informatyki**.
